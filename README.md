@@ -12,7 +12,7 @@
 💡 &nbsp;I'm a javascript developer. \
 🌱 &nbsp;I'm on track for learning more about WebGL, ThreeJS and data visualisation libs\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at karol.kawski@protonmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at karol.kawski@protonmail.com. I'll try to respond as soon as possible!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -30,20 +30,15 @@
 ![Three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=Gitlab)&nbsp;
-![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=Gitlab)&nbsp;
+![npm](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=Postgresql)&nbsp;
-![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=Mysql)&nbsp;
+![PostgreSql](https://img.shields.io/badge/-PostgreSql-05122A?style=flat&logo=Postgresql)&nbsp;
+![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=Mysql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 📫 &nbsp; How to reach me:
 <a href="https://www.linkedin.com/in/karolkawski/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:dhadwal1507@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-
-
-
-
-
-
+<a href="https://github.com/t-media-karol-kawski"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/></a> &nbsp;
+<a href="mailto:karol.kawski@protonmail.com"><img alt="Protonmail" src="https://img.shields.io/badge/-Protonmail-05122A?style=flat&logo=Protonmail" /></a> &nbsp;
 
