@@ -39,6 +39,5 @@
 
 ### 📫 &nbsp; How to reach me:
 <a href="https://www.linkedin.com/in/karolkawski/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://github.com/t-media-karol-kawski"><img alt="GitHub" src="https://img.shields.io/badge/-Second GitHub-05122A?style=flat&logo=github"/></a> &nbsp;
 <a href="mailto:karol.kawski@protonmail.com"><img alt="Protonmail" src="https://img.shields.io/badge/-Protonmail-05122A?style=flat&logo=Protonmail" /></a> &nbsp;
 
