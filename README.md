@@ -9,7 +9,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a javascript/typscript developer. \
+💡 &nbsp;I'm a javascript/typescript developer. \
 🚀 &nbsp; Currently delving into full-stack development within the MERN stack. Passionate about data visualization libraries like D3.js (2D) and Three.js (3D). Professionally engaged in crafting dynamic advertising scripts. 🌐💻\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at karol.kawski@protonmail.com. I'll try to respond as soon as possible!
